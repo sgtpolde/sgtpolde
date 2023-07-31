@@ -1,6 +1,6 @@
 <!-- Add a custom banner image to give a futuristic feel -->
 <p align="center">
-  <img src="https://github.com/sgtpolde/sgtpolde/assets/1338214/992a718c-87f1-462c-ab02-7c7dadade518" alt="Žak Bršek" width="100%">
+  <img src="https://github.com/sgtpolde/sgtpolde/assets/1338214/a2b63590-ba90-423f-b22e-bb55d1cdad30" alt="Žak Bršek" width="100%">
 </p>
 
 ## About Me
