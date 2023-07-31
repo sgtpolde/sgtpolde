@@ -34,7 +34,7 @@ I am always seeking opportunities to grow and learn. Currently, I'm exploring va
 Feel free to reach out to me for any collaboration, project inquiries, or just to say hello!
 
 - GitHub: [SgtPolde](https://github.com/SgtPolde)
-- LinkedIn: [Žak Bršek](https://www.linkedin.com/in/zak-brsek-5a4259226/)
+- LinkedIn: [Žak Bršek](https://www.linkedin.com/in/zak-brsek/)
 - Email: zak.bbrsek@gmail.com
 
 ## 🚀 Projects
