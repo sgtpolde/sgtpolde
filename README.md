@@ -3,9 +3,23 @@
   <img src="https://github.com/sgtpolde/sgtpolde/assets/1338214/a2b63590-ba90-423f-b22e-bb55d1cdad30" alt="Žak Bršek" width="100%">
 </p>
 
-## About Me
+## 👋 About Me
 
-I'm a 23-year-old Full Stack Developer specializing in React, Tailwind, Nestjs, and TypeScript. I have a passion for creating efficient, robust, and user-friendly web applications.
+Hello there! I'm Žak Bršek, a passionate Full Stack Developer from Slovenia. I've been exploring the exciting world of web development since I was 15.
+
+As a developer, I have gained expertise in a range of technologies, including React, TypeScript, Tailwind CSS, Nestjs, and Flutter, among others. My focus is on creating user-friendly interfaces and building strong backend systems to provide seamless digital experiences that truly make an impact.
+
+
+## 🎓 Education
+
+🏫 **Šolski Center Velenje (Slovenia)** | Computer Technician
+
+🎓 **Višja Strokovna Šola Velenje** | Engineer of Informatics
+
+On a quest for knowledge, I embarked on my academic journey at Šolski Center Velenje, where I honed my skills as a Computer Technician. Now, I'm pursuing my engineering dreams at Višja Strokovna Šola Velenje.
+
+Let's code and conquer! 🚀👨‍💻
+
 
 ## 🔧 Technologies & Tools
 
@@ -42,13 +56,13 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 Here are some of my noteworthy projects:
 
 1. [Twistora - frontend](https://github.com/SgtPolde/project-1)
-   Description of the project goes here.
+   Description - soon
 
 2. [Twistora - backend](https://github.com/SgtPolde/project-2)
-   Description of the project goes here.
+    Description - soon.
 
-3. [Project 3](https://github.com/SgtPolde/project-3)
-   Description of the project goes here.
+3. [Skillup](https://github.com/SgtPolde/project-3)
+   Description - soon
 
 ## 📈 GitHub Stats
 
