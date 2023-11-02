@@ -53,18 +53,12 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 
 ## 🚀 Projects
 
-Here are some of my noteworthy projects:
-1. [SkillUp - Project 01 - backend](https://github.com/sgtpolde/quotastic_backend)
-   Description - "Quotastic Backend: A powerful API serving motivational quotes, inspiring users worldwide. Stay tuned for more details!"
-
-3. [SkillUp - Project 01 - frontend](https://github.com/SgtPolde/project-1)
-   Description - soon
-
-2. [Twistora - backend](https://github.com/SgtPolde/project-2)
-    Description - soon.
-
-3. [Skillup](https://github.com/SgtPolde/project-3)
-   Description - soon
+| Project                                          | Description                                               | Live View |
+| ------------------------------------------------- | ------------------------------------------------ | --------- |
+| [SkillUp - Project 01 - backend](https://github.com/sgtpolde/quotastic_backend) | Quotastic Backend: A powerful API serving motivational quotes, inspiring users worldwide. Stay tuned for more details! | N/A |
+| [SkillUp - Project 01 - frontend](https://github.com/SgtPolde/project-1) | Soon | N/A |
+| [Twistora - backend](https://github.com/SgtPolde/project-2) | Soon | N/A |
+| [Skillup](https://github.com/SgtPolde/project-3) | Soon | N/A |
 
 ## 📈 GitHub Stats
 
