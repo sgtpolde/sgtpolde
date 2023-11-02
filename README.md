@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-Hello there! I'm Žak Bršek, a passionate Full Stack Developer from Slovenia. I've been exploring the exciting world of web development since I was 15.
+Hello there! I'm Žak Bršek, a passionate Full Stack Developer from Slovenia. I've been exploring the exciting world of web development since 2015.
 
 As a developer, I have gained expertise in a range of technologies, including React, TypeScript, Tailwind CSS, Nestjs, and Flutter, among others. My focus is on creating user-friendly interfaces and building strong backend systems to provide seamless digital experiences that truly make an impact.
 
@@ -16,7 +16,7 @@ As a developer, I have gained expertise in a range of technologies, including Re
 
 🎓 **Višja Strokovna Šola Velenje** | Engineer of Informatics
 
-On a quest for knowledge, I embarked on my academic journey at Šolski Center Velenje, where I honed my skills as a Computer Technician. Now, I'm pursuing my engineering dreams at Višja Strokovna Šola Velenje.
+On a quest for knowledge, I embarked on my academic journey at Šolski Center Velenje, where I honed my skills as a Computer Technician. Now, I've completed my engineering dreams at Višja Strokovna Šola Velenje.
 
 Let's code and conquer! 🚀👨‍💻
 
@@ -56,7 +56,7 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 | Project                                          | Description                                               | Live View |
 | ------------------------------------------------- | ------------------------------------------------ | --------- |
 | [SkillUp - Project 01 - backend](https://github.com/sgtpolde/quotastic_backend) | Quotastic Backend: A powerful API serving motivational quotes, inspiring users worldwide. Stay tuned for more details! | N/A |
-| [SkillUp - Project 01 - frontend](https://github.com/SgtPolde/project-1) | Soon | N/A |
+| [SkillUp - Project 01 - frontend](https://github.com/sgtpolde/quotastic_frontend) | Quotastic Frontend: An immersive React.js application where creativity meets motivation. Write, share, and inspire with ease. Join us and spread the positivity! Stay tuned for more details! ✨🚀 | N/A |
 | [Twistora - backend](https://github.com/SgtPolde/project-2) | Soon | N/A |
 | [Skillup](https://github.com/SgtPolde/project-3) | Soon | N/A |
 
