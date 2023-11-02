@@ -57,7 +57,7 @@ Here are some of my noteworthy projects:
 1. [SkillUp - Project 01 - backend](https://github.com/sgtpolde/quotastic_backend)
    Description - "Quotastic Backend: A powerful API serving motivational quotes, inspiring users worldwide. Stay tuned for more details!"
 
-2. [SkillUp - Project 01 - frontend](https://github.com/SgtPolde/project-1)
+3. [SkillUp - Project 01 - frontend](https://github.com/SgtPolde/project-1)
    Description - soon
 
 2. [Twistora - backend](https://github.com/SgtPolde/project-2)
