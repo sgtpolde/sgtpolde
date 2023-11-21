@@ -74,7 +74,7 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 
 | Project Name                        | Description                                     | Live View |
 | ------------------------------------ | -------------------------------------------- | --------- |
-| [SloCraft](https://github.com/group-username/project-1) | Description of the group project goes here. | Link to Live View |
+| [SloCraft](https://github.com/SloCraft) | Description of the group project goes here. | Link to Live View |
 | [Group Project 2](https://github.com/group-username/project-2) | Description of the group project goes here. | Link to Live View |
 
 
