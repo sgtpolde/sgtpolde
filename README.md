@@ -59,15 +59,16 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 | ------------------------------------------------- | ------------------------------------------------ | --------- |
 | [SkillUp - Project 01 - Backend](https://github.com/sgtpolde/quotastic_backend) | Quotastic Backend: A powerful API serving motivational quotes, inspiring users worldwide. Stay tuned for more details! | N/A |
 | [SkillUp - Project 01 - Frontend](https://github.com/sgtpolde/quotastic_frontend) | Quotastic Frontend: An immersive React.js application where creativity meets motivation. Write, share, and inspire with ease. Join us and spread the positivity! Stay tuned for more details! ✨🚀 | N/A |
-| [SkillUp - Project 02](https://github.com/SgtPolde/project-2) | Skillup Project 03: Soon | N/A |
+| [SkillUp - Project 02](https://github.com/SgtPolde/project-2) | Skillup Project 02: Soon | N/A |
 | [SkillUp - Project 03](https://github.com/SgtPolde/project-3) | Skillup Project 03: Soon | N/A |
 
 ### Personal Projects
 
 | Project Name                              | Description                                         | Live View |
 | ------------------------------------------ | -------------------------------------------------- | --------- |
-| [Twistora - backend](https://github.com/your-username/project-1) | Description of your personal project goes here. | Link to Live View |
-| [Twistora - frontend](https://github.com/your-username/project-2) | Description of your personal project goes here. | Link to Live View |
+| [Twistora - backend](https://github.com/sgtpolde/Twistora-backend) | Description of your personal project goes here. | Link to Live View |
+| [Twistora - frontend](https://github.com/your-username/Twistora-frontend) | Description of your personal project goes here. | Link to Live View |
+| [championstatchk](https://github.com/sgtpolde/championstatchk) | NestJS application providing API endpoints for champion and patch information. | Link to Live View |
 
 ### Group Projects
 
