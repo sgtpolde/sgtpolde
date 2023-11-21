@@ -66,7 +66,7 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 | ------------------------------------------ | -------------------------------------------------- | --------- |
 | [Portfolio](https://github.com/sgtpolde/portfolio) | my personal portfolio |   [Link to Live View](https://portfolio-zb.vercel.app/) |
 | [Twistora - backend](https://github.com/sgtpolde/Twistora-backend) | Description of your personal project goes here. | Link to Live View |
-| [Twistora - frontend](https://github.com/your-username/Twistora-frontend) | Description of your personal project goes here. | [Link to Live View](https://riot-tracker.vercel.app/) |
+| [Twistora - frontend](https://github.com/sgtpolde/Twistora-frontend) | Description of your personal project goes here. | [Link to Live View](https://riot-tracker.vercel.app/) |
 | [championstatchk](https://github.com/sgtpolde/championstatchk) | NestJS application providing API endpoints for champion and patch information. | Link to Live View |
 
 ### Group Projects
