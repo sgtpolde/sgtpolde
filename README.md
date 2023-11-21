@@ -59,8 +59,6 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 | ------------------------------------------------- | ------------------------------------------------ | --------- |
 | [SkillUp - Project 01 - Backend](https://github.com/sgtpolde/quotastic_backend) | Quotastic Backend: A powerful API serving motivational quotes, inspiring users worldwide. Stay tuned for more details! | N/A |
 | [SkillUp - Project 01 - Frontend](https://github.com/sgtpolde/quotastic_frontend) | Quotastic Frontend: An immersive React.js application where creativity meets motivation. Write, share, and inspire with ease. Join us and spread the positivity! Stay tuned for more details! ✨🚀 | [Link to live view](https://quota-frontend-sage.vercel.app/) |
-| [SkillUp - Project 02](https://github.com/SgtPolde/project-2) | Skillup Project 02: Soon | N/A |
-| [SkillUp - Project 03](https://github.com/SgtPolde/project-3) | Skillup Project 03: Soon | N/A |
 
 ### Personal Projects
 
@@ -76,7 +74,6 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 | Project Name                        | Description                                     | Live View |
 | ------------------------------------ | -------------------------------------------- | --------- |
 | [SloCraft](https://github.com/SloCraft) | Description of the group project goes here. | [Link to Live View](https://slocraft.eu) |
-| [Group Project 2](https://github.com/group-username/project-2) | Description of the group project goes here. | Link to Live View |
 
 
 ## 📈 GitHub Stats
