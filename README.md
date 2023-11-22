@@ -64,16 +64,16 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 
 | Project Name                              | Description                                         | Live View |
 | ------------------------------------------ | -------------------------------------------------- | --------- |
-| [Portfolio](https://github.com/sgtpolde/portfolio) | my personal portfolio |   [Link to Live View](https://portfolio-zb.vercel.app/) |
-| [Twistora - backend](https://github.com/sgtpolde/Twistora-backend) | Description of your personal project goes here. | Link to Live View |
-| [Twistora - frontend](https://github.com/sgtpolde/Twistora-frontend) | Description of your personal project goes here. | [Link to Live View](https://riot-tracker.vercel.app/) |
+| [Portfolio](https://github.com/sgtpolde/portfolio) | My personal portfolio page |   [Link to Live View](https://portfolio-zb.vercel.app/) |
+| [Twistora - backend](https://github.com/sgtpolde/Twistora-backend) | Twistora - League Of Legends account, match history, status, leaderboard lookup API | Link to Live View |
+| [Twistora - frontend](https://github.com/sgtpolde/Twistora-frontend) | Twistora - League Of Legends account, match history, status, leaderboard lookup frontend | [Link to Live View](https://riot-tracker.vercel.app/) |
 | [championstatchk](https://github.com/sgtpolde/championstatchk) | NestJS application providing API endpoints for champion and patch information. | Link to Live View |
 
 ### Group Projects
 
 | Project Name                        | Description                                     | Live View |
 | ------------------------------------ | -------------------------------------------- | --------- |
-| [SloCraft](https://github.com/SloCraft) | Description of the group project goes here. | [Link to Live View](https://slocraft.eu) |
+| [SloCraft](https://github.com/SloCraft) | Slovenian Minecraft Server from 2020 - 2022 | [Link to Live View](https://slocraft.eu) |
 
 
 ## 📈 GitHub Stats
