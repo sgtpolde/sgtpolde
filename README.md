@@ -12,9 +12,7 @@ As a developer, I have gained expertise in a range of technologies, including Re
 
 ## 🎓 Education
 
-🏫 **Šolski Center Velenje (Slovenia)** | Computer Technician
-
-🎓 **Višja Strokovna Šola Velenje** | Engineer of Informatics
+🎓 **Višja Strokovna Šola Velenje (Slovenia)** | Engineer of Informatics
 
 On a quest for knowledge, I embarked on my academic journey at Šolski Center Velenje, where I honed my skills as a Computer Technician. Now, I've completed my engineering dreams at Višja Strokovna Šola Velenje.
 
@@ -78,7 +76,11 @@ Feel free to reach out to me for any collaboration, project inquiries, or just t
 
 ## 📈 GitHub Stats
 
-<!-- Use the default GitHub dark theme for stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SgtPolde&show_icons=true&theme=dark)
-
-<!-- Optional: Add any additional sections you think would be relevant to your GitHub profile. -->
+<div align="center">
+<a href="https://github.com/sgtpolde">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sgtpolde&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sgtpolde&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgtpolde&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sgtpolde&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgtpolde&theme=2077" height="180em" />
+</div>
