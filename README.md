@@ -1,86 +1,78 @@
-<!-- Add a custom banner image to give a futuristic feel -->
-<p align="center">
-  <img src="https://github.com/sgtpolde/sgtpolde/assets/1338214/a2b63590-ba90-423f-b22e-bb55d1cdad30" alt="Žak Bršek" width="100%">
-</p>
 
-## 👋 About Me
+# 👋 Hey, I’m Žak  
+**Welcome to the land of organized chaos—my GitHub profile.** Here, you’ll find a mix of ambitious projects, experimental ideas, and the occasional piece of spaghetti code (because we all need a little flavor in our lives).
 
-Hello there! I'm Žak Bršek, a passionate Full Stack Developer from Slovenia. I've been exploring the exciting world of web development since 2015.
+<br />
 
-As a developer, I have gained expertise in a range of technologies, including React, TypeScript, Tailwind CSS, Nestjs, and Flutter, among others. My focus is on creating user-friendly interfaces and building strong backend systems to provide seamless digital experiences that truly make an impact.
+## 🌱 Who Am I?  
+- **💡 A Lifelong Learner:** Every bug is a lesson, every commit a step forward. Sometimes those steps are into a pit of errors, but hey, progress is progress.  
+- **🔧 A Builder:** Whether it’s a sleek frontend, a robust backend, or a clever automation, I enjoy making things that *work* (and hopefully don’t break).  
+- **🌟 A Realist:** Perfect code doesn’t exist—but good enough to ship? That’s where the magic happens.  
 
+<br />
 
-## 🎓 Education
+## 🛠️ My Toolkit (AKA My Coding Arsenal)
 
-🎓 **Višja Strokovna Šola Velenje (Slovenia)** | Engineer of Informatics
+**Languages**  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](#)
 
-On a quest for knowledge, I embarked on my academic journey at Šolski Center Velenje, where I honed my skills as a Computer Technician. Now, I've completed my engineering dreams at Višja Strokovna Šola Velenje.
+**Frontend Frameworks**  
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](#)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](#)
 
-Let's code and conquer! 🚀👨‍💻
+**Backend Sidekicks**  
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
+[![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white)](#)
+[![REST API](https://img.shields.io/badge/-REST%20API-008000?logo=swagger&logoColor=white)](#)
 
+**Utilities**  
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](#)
+[![CI/CD](https://img.shields.io/badge/-CI/CD-004880?logo=gitlab&logoColor=white)](#)
 
-## 🔧 Technologies & Tools
+**💎 Philosophy**  
+*"Code should be clean enough to understand. Real men test in production"*
 
-<!-- Use a grid layout for a clean and organized display -->
-<div align="center">
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React.js">
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" alt="Nest.js">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-PostgresSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgresSQL">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/-Render-373737?style=for-the-badge&logo=Render&logoColor=white" alt="Render">
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify">
-</div>
+<br />
 
-## 🌱 Currently Learning
+## 🌟 My Work Ethic  
+- **🧪 Experiment First:** If it breaks, I fix it. If it works, I optimize it.  
+- **🤝 Team Player:** Good ideas thrive in great discussions.  
+- **🎭 Humor-Fueled Development:** Debugging is 90% staring blankly at the screen, so a little humor keeps me sane.  
 
-I am always seeking opportunities to grow and learn. Currently, I'm exploring various technologies to expand my skill set and improve my abilities as a developer.
+<br />
 
-## 📫 Let's Connect
-
-Feel free to reach out to me for any collaboration, project inquiries, or just to say hello!
-
-- GitHub: [SgtPolde](https://github.com/SgtPolde)
-- LinkedIn: [Žak Bršek](https://www.linkedin.com/in/zak-brsek/)
-- Email: zak.bbrsek@gmail.com
-
-## 🚀 Projects
-
-### Skillup
-
-| Project                                          | Description                                               | Live View |
-| ------------------------------------------------- | ------------------------------------------------ | --------- |
-| [SkillUp - Project 01 - Backend](https://github.com/sgtpolde/quotastic_backend) | Quotastic Backend: A powerful API serving motivational quotes, inspiring users worldwide. Stay tuned for more details! | N/A |
-| [SkillUp - Project 01 - Frontend](https://github.com/sgtpolde/quotastic_frontend) | Quotastic Frontend: An immersive React.js application where creativity meets motivation. Write, share, and inspire with ease. Join us and spread the positivity! Stay tuned for more details! ✨🚀 | [Link to live view](https://quota-frontend-sage.vercel.app/) |
-
-### Personal Projects
-
-| Project Name                              | Description                                         | Live View |
-| ------------------------------------------ | -------------------------------------------------- | --------- |
-| [Portfolio](https://github.com/sgtpolde/portfolio) | My personal portfolio page |   [Link to Live View](https://portfolio-zb.vercel.app/) |
-| [Twistora - backend](https://github.com/sgtpolde/Twistora-backend) | Twistora - League Of Legends account, match history, status, leaderboard lookup API | Link to Live View |
-| [Twistora - frontend](https://github.com/sgtpolde/Twistora-frontend) | Twistora - League Of Legends account, match history, status, leaderboard lookup frontend | [Link to Live View](https://riot-tracker.vercel.app/) |
-| [championstatchk](https://github.com/sgtpolde/championstatchk) | NestJS application providing API endpoints for champion and patch information. | Link to Live View |
-
-### Group Projects
-
-| Project Name                        | Description                                     | Live View |
-| ------------------------------------ | -------------------------------------------- | --------- |
-| [SloCraft](https://github.com/SloCraft) | Slovenian Minecraft Server from 2020 - 2022 | [Link to Live View](https://slocraft.eu) |
+## 🎯 What I’m Building  
+Here are some projects I’m proud of and currently working on:
 
 
-## 📈 GitHub Stats
+<br />
 
-<div align="center">
-<a href="https://github.com/sgtpolde">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sgtpolde&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sgtpolde&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgtpolde&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sgtpolde&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgtpolde&theme=2077" height="180em" />
+## 🤝 Let’s Collaborate  
+I’d love to connect—whether you want to build something, share ideas, or simply chat about tech (or why semicolons in JavaScript are a hot debate).  
+
+- **💼 [LinkedIn](#)**  
+- **🌐 [Portfolio](#skurjen.si)**  
+- **📧 Email:** zak.bbrsek@gmail.com 
+
+<br />
+
+---
+
+🐤 Fun Fact:
+`Every time I fix a bug, somewhere in the world, a QA dies. 🦆`
+
+🐤 Fun Fact: 
+`Debugging is like a video game: every fix levels me up, but QA bosses keep respawning. 🦆`
+
+Thanks for stopping by! Let’s build something awesome together. 🚀
+
+<br />  
+
+<div align="left">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgtpolde&theme=2077" height="180em" />
 </div>
