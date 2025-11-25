@@ -1,78 +1,115 @@
+<div align="center">
+  
+# Žak Bršek
 
-# 👋 Hey, I’m Žak  
-**Welcome to the land of organized chaos—my GitHub profile.** Here, you’ll find a mix of ambitious projects, experimental ideas, and the occasional piece of spaghetti code (because we all need a little flavor in our lives).
+**Full Stack Developer** · **Tech Enthusiast** · **Problem Solver**
 
-<br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-skurjen.si-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white)](https://skurjen.si)
+[![Email](https://img.shields.io/badge/Email-zak.bbrsek@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:zak.bbrsek@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 
-## 🌱 Who Am I?  
-- **💡 A Lifelong Learner:** Every bug is a lesson, every commit a step forward. Sometimes those steps are into a pit of errors, but hey, progress is progress.  
-- **🔧 A Builder:** Whether it’s a sleek frontend, a robust backend, or a clever automation, I enjoy making things that *work* (and hopefully don’t break).  
-- **🌟 A Realist:** Perfect code doesn’t exist—but good enough to ship? That’s where the magic happens.  
-
-<br />
-
-## 🛠️ My Toolkit (AKA My Coding Arsenal)
-
-**Languages**  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](#)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](#)
-
-**Frontend Frameworks**  
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](#)
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)](#)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](#)
-
-**Backend Sidekicks**  
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
-[![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white)](#)
-[![REST API](https://img.shields.io/badge/-REST%20API-008000?logo=swagger&logoColor=white)](#)
-
-**Utilities**  
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](#)
-[![CI/CD](https://img.shields.io/badge/-CI/CD-004880?logo=gitlab&logoColor=white)](#)
-
-**💎 Philosophy**  
-*"Code should be clean enough to understand. Real men test in production"*
-
-<br />
-
-## 🌟 My Work Ethic  
-- **🧪 Experiment First:** If it breaks, I fix it. If it works, I optimize it.  
-- **🤝 Team Player:** Good ideas thrive in great discussions.  
-- **🎭 Humor-Fueled Development:** Debugging is 90% staring blankly at the screen, so a little humor keeps me sane.  
-
-<br />
-
-## 🎯 What I’m Building  
-Here are some projects I’m proud of and currently working on:
-
-
-<br />
-
-## 🤝 Let’s Collaborate  
-I’d love to connect—whether you want to build something, share ideas, or simply chat about tech (or why semicolons in JavaScript are a hot debate).  
-
-- **💼 [LinkedIn](#)**  
-- **🌐 [Portfolio](#skurjen.si)**  
-- **📧 Email:** zak.bbrsek@gmail.com 
-
-<br />
+</div>
 
 ---
 
-🐤 Fun Fact:
-`Every time I fix a bug, somewhere in the world, a QA dies. 🦆`
+### 👋 About Me
 
-🐤 Fun Fact: 
-`Debugging is like a video game: every fix levels me up, but QA bosses keep respawning. 🦆`
+I'm a passionate developer who's been building on GitHub since **2012**—started coding young and never looked back. I thrive on turning complex problems into elegant solutions, whether that's crafting pixel-perfect UIs or architecting robust backend systems.
 
-Thanks for stopping by! Let’s build something awesome together. 🚀
+> *"Code should be clean enough to understand. Real devs test in production."* 😉
 
-<br />  
+---
 
-<div align="left">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgtpolde&theme=2077" height="180em" />
+### 🎯 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### Primary
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![Nuxt UI](https://img.shields.io/badge/Nuxt_UI-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Nitro](https://img.shields.io/badge/Nitro-000000?style=flat-square&logo=nuxt.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-008000?style=flat-square&logo=swagger&logoColor=white)
+![FHIR](https://img.shields.io/badge/FHIR-E34F26?style=flat-square)
+![EHR](https://img.shields.io/badge/EHR-00BFFF?style=flat-square)
+
+#### Also Experienced In
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧰 Tools & DevOps</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-004880?style=flat-square&logo=githubactions&logoColor=white)
+![UptimeRobot](https://img.shields.io/badge/UptimeRobot-3BD671?style=flat-square&logo=uptimerobot&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Tools-412991?style=flat-square&logo=openai&logoColor=white)
+
+</details>
+
+---
+
+### 📚 Currently Learning
+
+| Focus Area | Description |
+|:-----------|:------------|
+| ☕ **Java & Spring** | Deepening backend expertise |
+| 🧪 **Testing** | Strategies & best practices |
+| 🔜 **More** | Always exploring new tech... |
+
+---
+
+### 💡 How I Work
+
+```text
+🧪 Experiment First    →  Break things, learn, iterate
+🤝 Collaboration       →  Great ideas come from great discussions  
+🎯 Ship It             →  Perfect is the enemy of done
+😄 Stay Light          →  A little humor goes a long way
+```
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+**Open to collaborations, interesting projects, and tech discussions.**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-skurjen.si-16213e?style=for-the-badge)](https://skurjen.si)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-16213e?style=for-the-badge)](mailto:zak.bbrsek@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-16213e?style=for-the-badge)](https://linkedin.com/in/YOUR-LINKEDIN)
+
+---
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgtpolde&theme=tokyonight" width="100%" />
+
+<sub>*Thanks for stopping by! Let's build something awesome together.* 🚀</sub>
+
 </div>
